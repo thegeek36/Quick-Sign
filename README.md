@@ -13,7 +13,8 @@ This project was inspired by the [30 Days of Coding](https://courses.30dayscodin
 
 ## Demo
 
-![Signature App Demo](demo.gif)
+
+![demo](https://github.com/thegeek36/Quick-Sign/assets/76440306/6984795e-b56a-4411-a563-843353427618)
 
 ## Installation
 
